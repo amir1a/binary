@@ -21,5 +21,5 @@ def binary_search(arr_list,target):
                    
                     low=mid+1
        print(f'Target:{target} not found in arrar.')       
-           
-binary_search([5,46,34,45,2,4,6,3,12,32,16],6)
+   
+binary_search([5,46,34,45,2,4,6,3,12,32,16],34)
